@@ -1,1 +1,3 @@
-# odin-reciepts
+# Odin Receipts
+Simple website
+ 
